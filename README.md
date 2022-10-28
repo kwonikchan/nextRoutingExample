@@ -51,19 +51,19 @@ pages/notice/board 폴더를 생성하고, index.js 파일을 생성하면 됨
 
 작성한 예시에서의 파일 구조 
 
-component
-│  │   header.js
-│  │   Mylayout.js
-│
+component<br>
+│  │   header.js<br>
+│  │   Mylayout.js<br>
+│ <br>
 ─pages
-│  │  about.js
-│  │  index.js
-│  │  post.js
-│  │
-│  └─ p
-│          index.js
-│          [id].js
-│
+│  │  about.js <br/>
+│  │  index.js<br>
+│  │  post.js<br>
+│  │ <br>
+│  └─ p<br>
+│          index.js<br>
+│          [id].js<br>
+
 
 
 Next.js 의 기능 중 동적라우팅을 사용해서. 'pages`의 동적인 경로 처리가능
