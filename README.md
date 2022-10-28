@@ -1,6 +1,9 @@
 # nextRoutingExample
 
 NextJS 에서 기본적인 세팅과 라우팅에 대해서 설명드립니다. 
+code 예시
+<a>https://github.com/kwonikchan/nextRoutingExample</a>
+
 
 단계 1 . 
 CNA 명령어 
